@@ -1,5 +1,7 @@
 # HOI4 MP Audit
 
+[Русский](README.md) | [English](README.en.md)
+
 
 
 **Журнал игровых команд для разбора мультиплеерных партий в Hearts of Iron IV.**
