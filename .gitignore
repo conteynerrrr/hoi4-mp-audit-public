@@ -1,0 +1,11 @@
+out/
+.cache/
+private-builds/
+mp_audit_logs/
+*.dll
+*.pdb
+*.obj
+*.lib
+*.jsonl
+*.jsonl.gz
+*.zip
